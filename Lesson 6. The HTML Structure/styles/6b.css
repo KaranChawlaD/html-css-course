@@ -1,0 +1,16 @@
+p {
+  font-family: Arial;
+  margin-top: 0px;
+  margin-bottom: 0px;
+}
+
+.title-text {
+  font-weight: bold;
+  font-size: 30px;
+}
+
+.description-text {
+  color: red;
+  font-style: italic;
+  font-size: 20px;
+}
