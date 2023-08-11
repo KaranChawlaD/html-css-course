@@ -1,0 +1,36 @@
+p {
+  font-family: Verdana;
+  margin-top: 0px;
+  margin-bottom: 0px;
+}
+
+.title-text {
+  font-size: 20px;
+  font-weight: bold;
+}
+
+.subtitle-text {
+  color: gray;
+  font-size: 18px;
+  margin-bottom: 14px;
+}
+
+.description-text {
+  font-size: 18px;
+  width: 350px;
+  margin-bottom: 14px;
+}
+
+.start-button {
+  margin-top: 0px;
+  background-color: green;
+  color: white;
+  font-size: 15px;
+  font-family: Verdana;
+  border: none;
+  padding-top: 9px;
+  padding-bottom: 9px;
+  padding-left: 16px;
+  padding-right: 16px;
+  border-radius: 5px;
+}
