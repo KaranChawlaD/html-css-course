@@ -1,0 +1,28 @@
+.image {
+  width: 50px;
+  height: 50px;
+  object-fit: cover;
+  border-radius: 25px;
+  vertical-align: middle;
+}
+
+.search {
+  font-family: Arial;
+  font-size: 16px;
+  border: none;
+  width: 250px;
+}
+
+.tweet {
+  border: none;
+  font-family: Arial;
+  color: white;
+  background-color: rgb(0, 140, 255);
+  font-size: 16px;
+  font-weight: bold;
+  padding-top: 8px;
+  padding-bottom: 8px;
+  padding-left: 15px;
+  padding-right: 15px;
+  border-radius: 16px;
+}
