@@ -1,0 +1,64 @@
+.profile {
+  width: 250px;
+  box-shadow: 0px 0px 5px rgba(0, 0, 0, 0.4);
+  margin-left: 10px;
+  margin-top: 10px;
+  display: inline-block;
+  margin-right: 10px;
+}
+
+.image {
+  width: 250px;
+  height: 230px;
+  object-fit: cover;
+}
+
+.image2 {
+  width: 250px;
+  height: 230px;
+  object-fit: cover;
+  object-position: top;
+}
+
+.name {
+  font-family: Arial;
+  font-size: 16px;
+  font-weight: bold;
+  margin-left: 5px;
+  margin-top: 8px;
+  margin-bottom: 0px;
+}
+
+.friends {
+  font-family: Arial;
+  font-size: 15px;
+  color: rgb(88, 88, 88);
+  margin-left: 5px;
+  margin-top: 4px;
+  display: inline-block;
+}
+
+.add {
+  color: white;
+  background-color: rgb(0, 119, 255);
+  border: none;
+  padding-top: 8px;
+  padding-bottom: 8px;
+  padding-left: 16px;
+  padding-right: 16px;
+  margin-bottom: 8px;
+  margin-left: 6px;
+  font-family: Arial;
+  font-size: 15px;
+  border-radius: 4px;
+}
+
+.friends-pic {
+  display: inline-block;
+  width: 30px;
+  height: 30px;
+  object-fit: cover;
+  vertical-align: middle;
+  margin-left: 5px;
+  border-radius: 15px;
+}
