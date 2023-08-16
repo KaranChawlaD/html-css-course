@@ -1,0 +1,72 @@
+.layout {
+  border: none;
+
+  width: 370px;
+  height: 110px;
+  box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.3);
+  padding-top: 8px;
+}
+
+
+p {
+  margin: 0px;
+  padding: 0px;
+}
+
+.title {
+  font-family: Arial;
+  font-size: 13px;
+  color: gray;
+  margin-left: 12px;
+  margin-top: 0px;
+}
+
+.email {
+  display: flex;
+  align-items: center;
+}
+
+.profile-picture {
+  width: 50px;
+  border-radius: 25px;
+  margin-left: 15px;
+  margin-top: 20px;
+}
+
+.text {
+  padding-top: 15px;
+  padding-left: 8px;
+  width: 280px;
+}
+
+.top-line {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 5px;
+  align-items: baseline;
+}
+
+.company {
+  font-family: Arial;
+  font-size: 16px;
+  font-weight: bold;
+}
+
+.time {
+  color: gray;
+  font-family: Arial;
+  font-size: 12px;
+}
+
+.subject {
+  font-family: Arial;
+  font-size: 15px;
+  font-weight: bold;
+  margin-bottom: 5px;
+}
+
+.content {
+  color: gray;
+  font-family: Arial;
+  font-size: 13px;
+}
