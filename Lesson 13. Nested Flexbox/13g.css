@@ -1,0 +1,82 @@
+.tweet-layout {
+  width: 420px;
+  height: 150px;
+  display: flex;
+  padding-bottom: 10px;
+  box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.3);
+}
+
+.profile-picture {
+  height: 50px;
+  border-radius: 25px;
+  margin-top: 8px;
+  margin-left: 12px;
+}
+
+.tweet {
+  margin-left: 12px;
+  margin-top: 10px;
+}
+
+p {
+  padding: 0px;
+  margin: 0px;
+}
+
+.title {
+  display: flex;
+  align-items: bottom;
+}
+
+.name {
+  font-family: Arial;
+  font-size: 15px;
+  font-weight: bold;
+}
+
+.tag {
+  font-family: Arial;
+  font-size: 15px;
+  color: gray;
+  margin-left: 5px;
+}
+
+.content {
+  font-family: Arial;
+  font-size: 15px;
+  margin-top: 5px;
+}
+
+.attachment {
+  background-color: lightgray;
+  margin-top: 10px;
+  margin-right: 14px;
+  border-radius: 10px;
+  height: 75px;
+}
+
+.link-text {
+  margin-left: 80px;
+  background-color: white;
+  border-width: 1px;
+  border-color: lightgray;
+  border-style: solid;
+  height: 73px;
+  border-top-right-radius: 10px;
+  border-bottom-right-radius: 10px;
+}
+
+.link {
+  font-family: Arial;
+  color: gray;
+  font-size: 12px;
+  margin-left: 10px;
+  margin-top: 10px;
+}
+
+.link-title {
+  font-family: Arial;
+  font-size: 12px;
+  margin-left: 10px;
+  margin-top: 5px;
+}
