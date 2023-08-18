@@ -1,0 +1,38 @@
+.crocs-container {
+  position: relative;
+  width: 300px;
+}
+
+.crocs {
+  width: 300px;
+}
+
+.discount {
+  position: absolute;
+  top: 5px;
+  right: 0px;
+  font-family: Arial;
+  color: white;
+  background-color: black;
+  padding: 5px;
+}
+
+.cart {
+  width: 300px;
+  background-color: rgba(255, 255, 255, 0.7);
+  position: absolute;
+  top: 150px;
+  height: 100px;
+}
+
+.cart-button {
+  position: absolute;
+  left: 110px;
+  top: 20px;
+  color: black;
+  background-color: white;
+  font-family: Arial;
+  border-width: 1px;
+  border-style: solid;
+  padding: 5px;
+}
