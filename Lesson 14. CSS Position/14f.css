@@ -1,0 +1,50 @@
+.servers {
+  background-color: rgb(31, 31, 31);
+  position: fixed;
+  top: 0;
+  left: 0;
+  bottom: 0;
+  width: 80px;
+}
+
+.channels {
+  background-color: rgb(54, 54, 54);
+  position: fixed;
+  top: 0;
+  left: 80px;
+  bottom: 0;
+  width: 200px;
+}
+
+.server-pictures {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding-top: 20px;
+
+}
+
+.server-picture {
+  width: 60%;
+  border-radius: 50%;
+  margin-bottom: 10px;
+}
+
+.text {
+  margin-left: 15px;
+  margin-top: 20px;
+}
+
+.info {
+  font-family: Arial;
+  color: white;
+  font-size: 13px;
+}
+
+.channel {
+  margin-top: 10px;
+  margin-bottom: 10px;
+  color: gray;
+  font-family: Arial;
+  font-size: 14px;
+}
